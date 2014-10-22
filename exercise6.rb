@@ -40,5 +40,7 @@ puts " "
 shopping(grocery_list.sort)
 
 grocery_list.delete("salmon")
+
 puts " "
+
 shopping(grocery_list)
